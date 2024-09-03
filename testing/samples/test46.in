@@ -1,0 +1,10 @@
+> init
+<<<
++ wug2.txt wug2.txt
+> add wug2.txt
+<<<
+> commit "add wug2"
+<<<
+> commit "error"
+No changes added to the commit.
+<<<

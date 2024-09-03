@@ -1,0 +1,12 @@
+> init
+<<<
++ a.txt a.txt
++ b.txt b.txt
+> add a.txt
+<<<
+> add b.txt
+<<<
+> commit "added a and b"
+<<<
+= a.txt a.txt
+= b.txt b.txt
